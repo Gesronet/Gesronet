@@ -1,4 +1,4 @@
 ## 👋 Hi, I'm Samuel Otomewo
 
 ## About Me
-Experienced software engineer who loves to build innovative solutions. Focusing on JavaScript, I strive to create clean, efficient, scalable code that makes a difference. 
+As an experienced software engineer, I am passionate about developing innovative solutions. With a focus on JavaScript, I aim to write clean, efficient, and scalable code that makes a meaningful impact.
